@@ -24,4 +24,7 @@ With user input https://drive.google.com/file/d/1hWLgH_tQBF5IlkzthcEsNBxxDV9VROf
 ## Built With
 * Node.JS
 * JavaScript
+*AXIOS
+*SpotifyAPI 
+
 
