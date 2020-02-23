@@ -6,7 +6,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that 
 takes in parameters and gives you back data.
 
-This LIRI app uses the Twitter API, Spotify API, and OMDB API to grab informaton requested by the user.
+This LIRI app uses the Twitter API, Spotify API, and OMDB API to grab information requested by the user.
 LIRI takes in four commands;
 
 'concert-this',
