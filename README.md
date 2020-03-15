@@ -19,9 +19,11 @@ LIRI takes in four commands;
 
 
 ## DEMO
+View the demonstration below with hard-coded default searches. 
 With defaults https://drive.google.com/file/d/1UytgqRzs4INOb68_mMBqrMdCjQckaY5M/view
 
 ## DEMO 
+
 With user input https://drive.google.com/file/d/1hWLgH_tQBF5IlkzthcEsNBxxDV9VROf1/view
 
 ## Built With
