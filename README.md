@@ -1,10 +1,8 @@
 # LIRI
 
-<<<<<<< HEAD
+
 # About
 
-
-=======
 Say hello to LIRI!
 
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, 
@@ -31,6 +29,6 @@ With user input https://drive.google.com/file/d/1hWLgH_tQBF5IlkzthcEsNBxxDV9VROf
 * JavaScript
 * AXIOS
 * SpotifyAPI 
->>>>>>> 93c3ab7d1c4ec5b65139b549792d5dcfeffbf83e
+
 
 
