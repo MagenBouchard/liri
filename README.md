@@ -11,10 +11,10 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 This LIRI app uses the Twitter API, Spotify API, and OMDB API to grab information requested by the user.
 LIRI takes in four commands;
 
-'concert-this',
-'spotify-this-song',
-'movie-this',
-'do-what-it-says'.
+* 'concert-this',
+* 'spotify-this-song',
+* 'movie-this',
+* 'do-what-it-says'.
 
 
 ## DEMO
